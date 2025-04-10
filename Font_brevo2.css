@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'GothamBlack';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-Black.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamBlackItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-BlackItalic.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
