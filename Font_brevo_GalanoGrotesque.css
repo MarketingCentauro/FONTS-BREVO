@@ -1,0 +1,145 @@
+@font-face {
+  font-family: 'GalanoGrotesqueBlack';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueBlack.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueBlackItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueBlackItalic.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueBold';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueBold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueBoldItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueBoldItalic.otf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueExtraBold';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueExtraBoldItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueExtraBoldItalic.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueExtraLight';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueExtraLight.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueExtraLightItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueExtraLightItalic.otf') format('opentype');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueHeavy';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueHeavy.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueHeavyItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueHeavyItalic.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueItalic.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueLight';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueLight.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueLightItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueLightItalic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueMedium';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueMedium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueMediumItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueMediumItalic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueRegular';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueRegular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueRegularItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueRegularItalic.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueSemiBold';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueSemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'GalanoGrotesqueSemiBoldItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueSemiBoldItalic.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueThin';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueThin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GalanoGrotesqueThinItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/GalanoGrotesqueThinItalic.otf') format('opentype');
+  font-weight: 100;
+  font-style: italic;
+}
