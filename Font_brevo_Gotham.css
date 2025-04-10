@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'GothamBlack';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-Black.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamBlackItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-BlackItalic.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamBold';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-Bold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamBoldItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-BoldItalic.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamBook';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-Book.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamBookItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-BookItalic.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamLight';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-Light.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamLightItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-LightItalic.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamMedium';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-Medium.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamMediumItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-MediumItalic.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamThin';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-Thin.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamThinItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-ThinItalic.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamUltra';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-Ultra.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamUltraItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-UltraItalic.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamXLight';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-XLight.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothamXLightItalic';
+  src: url('https://raw.githubusercontent.com/MarketingCentauro/FONTS-BREVO/main/Gotham-XLightItalic.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
